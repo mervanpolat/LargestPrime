@@ -27,9 +27,8 @@ public class Main {
             }
         }
 
-        //sdfhiusdhfusdifhuisdfh
-        //sdoöfuhsdiufhiusdfuihsdfhiusdfhus
-                //sdoifsdoifhdsifoiohdsfsdf
+        System.out.println("Max prime: " + maxSum);
+        System.out.println("Sum = " + sum);
 
 }
 
