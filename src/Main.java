@@ -26,8 +26,6 @@ public class Main {
                 maxSum = integer;
             }
         }
-        System.out.println("Max prime: " + maxSum);
-        System.out.println("Sum = " + sum);
 }
 
 }
